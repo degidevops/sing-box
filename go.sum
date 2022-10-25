@@ -139,6 +139,8 @@ github.com/sagernet/abx-go v0.0.0-20220819185957-dba1257d738e h1:5CFRo8FJbCuf5s/
 github.com/sagernet/abx-go v0.0.0-20220819185957-dba1257d738e/go.mod h1:qbt0dWObotCfcjAJJ9AxtFPNSDUfZF+6dCpgKEOBn/g=
 github.com/sagernet/go-tun2socks v1.16.12-0.20220818015926-16cb67876a61 h1:5+m7c6AkmAylhauulqN/c5dnh8/KssrE9c93TQrXldA=
 github.com/sagernet/go-tun2socks v1.16.12-0.20220818015926-16cb67876a61/go.mod h1:QUQ4RRHD6hGGHdFMEtR8T2P6GS6R3D/CXKdaYHKKXms=
+github.com/sagernet/gomobile v0.0.0-20220616115759-d86e1a4931f0 h1:jxZAif3WnhEcL5zmc4cMTTSV3V8ufcoy3FBlDjYA9X0=
+github.com/sagernet/gomobile v0.0.0-20220616115759-d86e1a4931f0/go.mod h1:V7wtDANwQGO3ZPaiyQdZh9cw73mkNmFi/p0ACRpqrN0=
 github.com/sagernet/netlink v0.0.0-20220905062125-8043b4a9aa97 h1:iL5gZI3uFp0X6EslacyapiRz7LLSJyr4RajF/BhMVyE=
 github.com/sagernet/netlink v0.0.0-20220905062125-8043b4a9aa97/go.mod h1:xLnfdiJbSp8rNqYEdIW/6eDO4mVoogml14Bh2hSiFpM=
 github.com/sagernet/quic-go v0.0.0-20220818150011-de611ab3e2bb h1:wc0yQ+SBn4TaTYRwpwvEm3nc4eRdxk6vtRbouLVZAzk=
