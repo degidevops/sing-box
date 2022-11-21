@@ -211,9 +211,6 @@ func (g *URLTestGroup) Select(network string) adapter.Outbound {
 			minTime = history.Time
 			break
 		}
-		if g.timeout > 0 && time.Duration(history.Delay)*time.Millisecond > g.timeout {
-			continue
-		}
 		if minDelay == 0 || minDelay > history.Delay+g.tolerance || minDelay > history.Delay-g.tolerance && minTime.Before(history.Time) {
 			minDelay = history.Delay
 			minTime = history.Time
