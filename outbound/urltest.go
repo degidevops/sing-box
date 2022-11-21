@@ -199,6 +199,9 @@ func (g *URLTestGroup) Select(network string) adapter.Outbound {
 		if history == nil {
 			continue
 		}
+		if g.timeout > 0 && time.Duration(history.Delay)*time.Millisecond > g.timeout {
+			continue
+		}
 		if g.fallback {
 			minOutbound = detour
 			minDelay = history.Delay
