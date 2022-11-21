@@ -10,6 +10,9 @@ MAIN = ./cmd/sing-box
 build:
 	go build $(PARAMS) $(MAIN)
 
+build-utls:
+	go build -o finger.so -buildmode=plugin -ldflags "-s -w -buildid=" -v -trimpath ./common/uTLSFingerPrint
+
 install:
 	go install $(PARAMS) $(MAIN)
 
