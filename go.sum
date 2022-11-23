@@ -30,6 +30,8 @@ github.com/database64128/tfo-go/v2 v2.0.2/go.mod h1:FDdt4JaAsRU66wsYHxSVytYimPkK
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/degidevops/websocket v0.0.0-20221118063807-860488317be5 h1:+/EiMAkr+fB0DpZIXPA+juFt/EZTLKbYLrYXFJVPeg8=
+github.com/degidevops/websocket v0.0.0-20221118063807-860488317be5/go.mod h1:P7tYA5m94MfaSSCGw7FVJ8/wskTeMtVOx8j0cY6bxqI=
 github.com/dustin/go-humanize v1.0.0 h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
@@ -144,8 +146,6 @@ github.com/sagernet/sing-vmess v0.0.0-20221109021549-b446d5bdddf0 h1:z3kuD3hPNdE
 github.com/sagernet/sing-vmess v0.0.0-20221109021549-b446d5bdddf0/go.mod h1:bwhAdSNET1X+j9DOXGj9NIQR39xgcWIk1rOQ9lLD+gM=
 github.com/sagernet/smux v0.0.0-20220831015742-e0f1988e3195 h1:5VBIbVw9q7aKbrFdT83mjkyvQ+VaRsQ6yflTepfln38=
 github.com/sagernet/smux v0.0.0-20220831015742-e0f1988e3195/go.mod h1:yedWtra8nyGJ+SyI+ziwuaGMzBatbB10P1IOOZbbSK8=
-github.com/sagernet/websocket v0.0.0-20220913015213-615516348b4e h1:7uw2njHFGE+VpWamge6o56j2RWk4omF6uLKKxMmcWvs=
-github.com/sagernet/websocket v0.0.0-20220913015213-615516348b4e/go.mod h1:45TUl8+gH4SIKr4ykREbxKWTxkDlSzFENzctB1dVRRY=
 github.com/sagernet/wireguard-go v0.0.0-20221116151939-c99467f53f2c h1:vK2wyt9aWYHHvNLWniwijBu/n4pySypiKRhN32u/JGo=
 github.com/sagernet/wireguard-go v0.0.0-20221116151939-c99467f53f2c/go.mod h1:euOmN6O5kk9dQmgSS8Df4psAl3TCjxOz0NW60EWkSaI=
 github.com/spf13/cobra v1.6.1 h1:o94oiPyS4KD1mPy2fmcYYHHfCxLqYjJOhGsCHFZtEzA=
