@@ -45,6 +45,8 @@ require (
 	gvisor.dev/gvisor v0.0.0-20220901235040-6ca97ef2ce1c
 )
 
+replace github.com/sagernet/websocket => github.com/degidevops/websocket v0.0.0-20221118063807-860488317be5
+
 //replace github.com/sagernet/sing => ../sing
 
 require (
